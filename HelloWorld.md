@@ -1,2 +1,2 @@
 Enter file contents here
-## this is a mardkdown file
+## This is a markdown file
